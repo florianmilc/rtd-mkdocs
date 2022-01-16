@@ -1,6 +1,6 @@
-site_name: L0L
+site_name: My First Doc Website
 theme:
   name: material
 nav:
     - Home: index.md
-    - About: about.md
+    - Testing Markdown: testing_markdown.md
