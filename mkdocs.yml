@@ -7,18 +7,22 @@ theme:
     text: Roboto Condensed
   palette:
     - scheme: default
+      primary: black
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to Dark Mode
     - scheme: slate
+      primary: black
       toggle:
         icon: material/toggle-switch
-        name: Switch to Whie Mode
+        name: Switch to Light Mode
   features:
       - content.code.annotate
       - navigation.top
       - navigation.expand
+#      - navigation.tabs
       - toc.integrate
+      - content.tabs.link
 extra:
   generator: false
   social:
@@ -41,6 +45,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 
 
         
 nav:
@@ -54,4 +60,5 @@ nav:
     - Launching the Website Locally:
       - Installing MkDocs: install_mkd.md
       - Launching the Website Locally: mkd_serve.md
+    - Testing: testing_markdown.md
     

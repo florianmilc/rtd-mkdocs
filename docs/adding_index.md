@@ -8,7 +8,6 @@ You can use any text editor to create a Markdown file, but ensure the file exten
 
 1. In the `docs/` directory, create an `index.md` file.
 2. Edit the file and paste the following contents:
-
 ``` markdown
 # Welcome
 

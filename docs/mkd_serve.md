@@ -4,9 +4,9 @@
 
 **Procedure:**
 
-1. In the root location of your project, run in terminal: `mkdocs serve`.
-1. In your default web browser, open [http://127.0.0.1:8000](http://127.0.0.1:8000).
+1. In the root location of your project, in the terminal, run: `mkdocs serve`.
+2. In your default web browser, open [http://127.0.0.1:8000](http://127.0.0.1:8000).
 
-The following website loads:
+If you use the configuration provided in the "Setting Up the Website" section, the following website appears:
 
 ![My First Website](img/rtd-mk-1.png "My First Website")
