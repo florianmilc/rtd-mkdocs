@@ -1,6 +1,16 @@
 copyright: Copyright &copy; 2022 Florian Milc
-
 site_name: My First Doc Website
+nav:
+    - Home: index.md
+    - Setting Up the Website:
+      - Creating Read the Docs Configuration File: creating_rdt.md
+      - Adding Configuration Requirements: adding_reqs.md
+      - Creating MkDocs Configuration File: creating_mkd.md
+      - Adding Content Files: adding_index.md
+      - Verifying Project Files: project_files.md
+    - Launching the Website Locally:
+      - Installing MkDocs: install_mkd.md
+      - Launching the Website Locally: mkd_serve.md
 theme:
   name: material
   font:
@@ -41,17 +51,3 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-
-        
-nav:
-    - Home: index.md
-    - Setting Up the Website:
-      - Creating Read the Docs Configuration File: creating_rdt.md
-      - Adding Configuration Requirements: adding_reqs.md
-      - Creating MkDocs Configuration File: creating_mkd.md
-      - Adding Content Files: adding_index.md
-      - Verifying Project Files: project_files.md
-    - Launching the Website Locally:
-      - Installing MkDocs: install_mkd.md
-      - Launching the Website Locally: mkd_serve.md
-    
