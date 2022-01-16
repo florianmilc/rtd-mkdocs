@@ -7,4 +7,4 @@ Additionally, as I advance in the subject, I plan to expand the website with pro
 You can clone the repository and run it locally or visit the website by clicking [here](https://rtd-mkdocs.readthedocs.io/en/latest/).
 Just a kind reminder, the website is and may remain in the "under construction" state for a quite a long time.
 
-:peace: :heart: :pen:
+☮️ :heart: :pen:
