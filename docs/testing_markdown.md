@@ -32,3 +32,7 @@ python:
 ```
 
 And for dessert, a single code phrase, for instance, `python.version`.
+
+## Testing Extensions
+
+:heart
