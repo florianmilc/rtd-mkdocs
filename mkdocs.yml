@@ -37,8 +37,9 @@ nav:
       - Creating Read the Docs Configuration File: creating_rdt.md
       - Adding Configuration Requirements: adding_reqs.md
       - Creating MkDocs Configuration File: creating_mkd.md
-      - Adding Content Files: adding_md.md
+      - Adding Content Files: adding_index.md
+      - Verifying Project Files: project_files.md
     - Launching the Website Locally:
       - Installing MkDocs: install_mkd.md
       - Launching the Website Locally: mkd_serve.md
-    - Testing testing: testing_markdown.md
+    

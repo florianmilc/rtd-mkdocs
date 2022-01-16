@@ -1,11 +1,11 @@
 # Creating MkDocs Configuration File
 
-MkDocs allows you to create and run a website.
-The documentation source files for MkDocs consists of Markdown content files and YAML configuration files.
+MkDocs allows you to quickly create a website and run it locally on your computer.
+The source files for a project that uses MkDocs consists of Markdown content files and YAML configuration files.
 
 !!! tip
 
-    Running a website locally by using MkDocs, requires MkDocs installed on your computer. See [Installing MkDocs](install_mkd.md).
+    Running a website locally requires MkDocs installed on your computer. See [Installing MkDocs](install_mkd.md).
 
 **Procedure:**
 

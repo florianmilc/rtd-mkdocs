@@ -1,12 +1,11 @@
 # Creating Read the Docs Configuration File
 
-Read the Docs require a configuration file that indicates for instance Python version or additional configuration files.
-The following example shows the contents of `.readthedocs.yaml` for generating a website that uses Mkdocs.
+The Read the Docs service requires a configuration file to set for instance Python version or add additional configuration files to the project.
 
 **Procedure:**
 
 1. In the root location of your project, create a `.readthedocs.yaml` file.
-2. Edit the file and paste the configuration provided below.
+2. Edit the file, paste the configuration provided below, and save the changes.
 
 ``` yaml title=".readthedocs.yaml"
 version: 2
