@@ -1,6 +1,19 @@
 site_name: My First Doc Website
 theme:
   name: material
+  font:
+    text: Roboto Condensed
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to Whie Mode
+        
+
 nav:
     - Home: index.md
     - Testing Markdown: testing_markdown.md
