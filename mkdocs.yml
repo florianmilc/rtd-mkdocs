@@ -51,6 +51,7 @@ markdown_extensions:
         
 nav:
     - Home: index.md
+    - Related Information: related_info.md
     - Setting Up the Website:
       - Creating Read the Docs Configuration File: creating_rdt.md
       - Adding Configuration Requirements: adding_reqs.md
@@ -60,5 +61,8 @@ nav:
     - Launching the Website Locally:
       - Installing MkDocs: install_mkd.md
       - Launching the Website Locally: mkd_serve.md
-    - Testing: testing_markdown.md
+    - Publishing the Website:
+      - Creating Account on Read the Docs: rtd_signup.md
+      - Importing Project Files: rtd_import_project.md
+      - Publishing the Website: rtd_publish.md
     

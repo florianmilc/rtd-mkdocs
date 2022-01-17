@@ -15,4 +15,4 @@ Pygments==2.10.0
 pymdown-extensions==9.1
 Markdown==3.2.1
 ```
-3. Ensure the `requirements.txt` is added to the project. See [Creating Read the Docs Configuration File](creating_rdt.md).
+1. Ensure the `requirements.txt` is added to the project. See [Creating Read the Docs Configuration File](creating_rdt.md).
