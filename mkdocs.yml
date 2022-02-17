@@ -1,6 +1,6 @@
 copyright: Copyright &copy; 2022 Florian Milc
 
-site_name: My First Documentation Website
+site_name: My Documentation Website
 theme:
   name: material
   font:
