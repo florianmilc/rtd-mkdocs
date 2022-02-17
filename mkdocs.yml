@@ -1,6 +1,6 @@
 copyright: Copyright &copy; 2022 Florian Milc
 
-site_name: My First Doc Website
+site_name: My First Documentation Website
 theme:
   name: material
   font:
@@ -52,16 +52,16 @@ nav:
     - Home: index.md
     - Related Information: related_info.md
     - Setting Up the Website:
-      - Creating Read the Docs Configuration File: creating_rdt.md
-      - Adding Configuration Requirements: adding_reqs.md
-      - Creating MkDocs Configuration File: creating_mkd.md
-      - Adding Content Files: adding_index.md
-      - Verifying Project Files: project_files.md
+      - Creating Read the Docs Configuration File: setting_up/creating_rdt.md
+      - Adding Configuration Requirements: setting_up/adding_reqs.md
+      - Creating MkDocs Configuration File: setting_up/creating_mkd.md
+      - Adding Content Files: setting_up/adding_index.md
+      - Verifying Project Files: setting_up/project_files.md
     - Launching the Website Locally:
-      - Installing MkDocs: install_mkd.md
-      - Launching the Website Locally: mkd_serve.md
+      - Installing MkDocs: launching_locally/install_mkd.md
+      - Launching the Website Locally: launching_locally/mkd_serve.md
     - Publishing the Website:
-      - Creating Account on Read the Docs: rtd_signup.md
-      - Importing Project Files: rtd_import_project.md
-      - Publishing the Website: rtd_publish.md
+      - Creating Account on Read the Docs: publishing/rtd_signup.md
+      - Importing Project Files: publishing/rtd_import_project.md
+      - Publishing the Website: publishing/rtd_publish.md
     

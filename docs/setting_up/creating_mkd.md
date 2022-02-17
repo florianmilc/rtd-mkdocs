@@ -5,7 +5,7 @@ The source files for a project that uses MkDocs consists of Markdown content fil
 
 !!! tip
 
-    Running a website locally requires MkDocs installed on your computer. See [Installing MkDocs](install_mkd.md).
+    Running a website locally requires MkDocs installed on your computer. See [Installing MkDocs](../launching_locally/install_mkd.md)
 
 **Procedure:**
 

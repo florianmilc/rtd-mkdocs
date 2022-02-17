@@ -8,7 +8,8 @@
 
     **Result:** Building and publishing process begins. When it is complete, a message appears informing that the build is complete.
 
-![Build Complete](img/rtd-mk-6.png)<br></br>
+    ![Build Complete](../img/rtd-mk-6.png)
+
 4. Click **View Docs** to open the published website.
 
-If the website loads, that is awesome — you successfully created your website and published it worldwide. :rainbow:
+You can view the website and be proud of yourself — you have successfully created a website and published it worldwide. :rainbow:
