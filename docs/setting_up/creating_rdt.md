@@ -19,7 +19,7 @@ mkdocs:
   fail_on_warning: false
 ```
 
-1. This parameter adds additional requirements to the configuration. See [Adding Configuration Requirements](adding_reqs.md).
-2. This parameter adds the configuration file for the MkDocs. See [Creating MkDocs Configuration File](creating_mkd.md).
+1. This parameter adds additional requirements to the configuration.
+2. This parameter adds the configuration file for the MkDocs.
 
 For more details on configuring Read the Docs, see the [Configuration File](https://docs.readthedocs.io/en/stable/config-file/index.html) section in the Read the Docs documentation.
