@@ -3,7 +3,7 @@
 **Procedure:**
 
 1. In your default web browser, open the [Read the Docs dashboard](https://readthedocs.org/dashboard/).
-2. In the **Projects** box, click the project you want to publish.
+
 3. On the **Project** site, click **Build version**.
 
     **Result:** Building and publishing process begins. When it is complete, a message appears 
