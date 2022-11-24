@@ -6,7 +6,7 @@
 
 3. On the **Project** site, click **Build version**.
 
-    **Result:** Building and publishing process begins. When it is complete, a message appears 
+    **Result:** Building and publishing process begins. When it is complete, a message appears informing that the build is complete.
 
     ![Build Complete](../img/rtd-mk-6.png)
 
