@@ -1,7 +1,10 @@
 version: 2
 
+build:
+  tools:
+    python: "3.13.0"
+
 python:
-  version: 3.13.0
   install:
     - requirements: config/requirements.txt
 
