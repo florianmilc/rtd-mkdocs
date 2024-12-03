@@ -5,7 +5,7 @@ The Read the Docs service requires a configuration file to set for instance Pyth
 **Procedure:**
 
 1. In the root location of your project, create a `.readthedocs.yaml` file.
-2. Edit the file, paste the configuration provided below, and save the changes.
+1. Edit the file, paste the configuration provided below, and save the changes.
 
 ``` yaml title=".readthedocs.yaml"
 version: 2
