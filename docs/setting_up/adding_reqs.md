@@ -10,9 +10,9 @@ For more details, see the [Requirements File](https://docs.readthedocs.io/en/sta
 1. In the `config/` directory, create a `requirements.txt` file.
 2. Edit the file, paste the following configuration, and save the changes.
 ``` txt title="requirements.txt"
-mkdocs-material==8.0
-Pygments==2.10.0
-pymdown-extensions==9.1
-Markdown==3.2.1
+mkdocs-material==9.5.47
+Pygments==2.18.0
+pymdown-extensions==10.12
+Markdown==3.7
 ```
 1. Ensure the `requirements.txt` is added to the project. See [Creating Read the Docs Configuration File](creating_rdt.md).

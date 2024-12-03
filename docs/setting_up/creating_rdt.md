@@ -10,12 +10,17 @@ The Read the Docs service requires a configuration file to set for instance Pyth
 ``` yaml title=".readthedocs.yaml"
 version: 2
 
+build:
+  os: ubuntu-24.04
+  tools:
+    python: "3.13"
+
 python:
-  version: 3.7
   install:
-    - requirements: config/requirements.txt # (1)
+    - requirements: config/requirements.txt
+
 mkdocs:
-  configuration: mkdocs.yml # (2)
+  configuration: mkdocs.yml
   fail_on_warning: false
 ```
 
